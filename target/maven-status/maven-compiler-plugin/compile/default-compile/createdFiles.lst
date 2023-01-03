@@ -1,0 +1,9 @@
+com\example\demojar\controllers\DatosPersonalesController.class
+com\example\demojar\services\HabilidadesService.class
+com\example\demojar\DemojarjarApplication.class
+com\example\demojar\repositories\DatosPersonalesRepository.class
+com\example\demojar\services\DatosPersonalesService.class
+com\example\demojar\controllers\HabilidadesController.class
+com\example\demojar\repositories\HabilidadesRepository.class
+com\example\demojar\models\DatosPersonalesModel.class
+com\example\demojar\models\HabilidadesModel.class
